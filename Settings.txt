@@ -1,0 +1,1 @@
+- Cần di chuyển folder curl vào ổ C
